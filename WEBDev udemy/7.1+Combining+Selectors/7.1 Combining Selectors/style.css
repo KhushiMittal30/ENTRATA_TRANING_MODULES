@@ -1,0 +1,18 @@
+/* Write your code here: */
+
+.list li{
+    color: brown;
+}
+
+.box > .done
+{
+  color:blue
+}
+
+ul p.done{
+    font-size: 0.5rem;
+}
+    
+.list li.done{
+    color:green
+}

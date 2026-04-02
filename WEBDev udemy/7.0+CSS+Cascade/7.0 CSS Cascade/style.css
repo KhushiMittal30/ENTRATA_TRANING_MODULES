@@ -1,0 +1,30 @@
+/* Don't change the existing CSS. */
+
+.box {
+  background-color: blue;
+  padding: 10px;
+ /* border :10px solid black;*/
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0
+}
+
+.white-text{
+  color:white;
+  }
+
+#outer-box{
+  background-color: purple;
+}
+/*if we apply 50px padding here th epadding of purple increases butnot with 10px paddign coz its
+ alresdy  applied thru box padding*/
+
+.inner-box{
+  background-color:red;
+}
+
+/*inner bo xshud be below box class so that it overrides the box selector to set red co
+lor*?

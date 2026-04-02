@@ -1,0 +1,4 @@
+nslookup : uses ip address to find the website
+
+loren ipsum, baconipsum , broipsum 
+diffchecker.com = compares the 2 text 
